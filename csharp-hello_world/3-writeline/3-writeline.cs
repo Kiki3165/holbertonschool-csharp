@@ -1,10 +1,8 @@
-using system;
-
-public class Program
-{
-    public static void Main(string[] args)
+    class Sample
     {
-        string a = "\"Programming is like building a multilingual puzzle\n";
-        Console.WriteLline(a);
+        static void Main()
+        {
+            string a = "\"Programming is like building a multilingual puzzle\n";
+            Console.WriteLine(a);
+        }
     }
-}
