@@ -2,6 +2,7 @@ class Sample
 {
     static void Main()
     {
-    Console.WriteLline("\"Programming is like building a multilingual puzzle\n");
+        string a = "\"Programming is like building a multilingual puzzle\n"
+        Console.WriteLline(a);
     }
 }
