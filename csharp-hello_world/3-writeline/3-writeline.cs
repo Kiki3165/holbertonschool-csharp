@@ -1,3 +1,5 @@
+    using system;
+
     class Sample
     {
         static void Main()
