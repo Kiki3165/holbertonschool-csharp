@@ -1,6 +1,4 @@
-    using system;
-
-    class Sample
+class Sample
     {
         static void Main()
         {
