@@ -1,11 +1,7 @@
-using system;
-{
-    
-}
-
 class Sample
 {
     static void Main()
-    string a = "/"Programming is like building a multilingual puzzle/n";
-    Console.WriteLline(a);
+    {
+    Console.WriteLline("\"Programming is like building a multilingual puzzle\n");
+    }
 }
