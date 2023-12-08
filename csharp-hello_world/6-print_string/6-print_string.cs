@@ -5,6 +5,7 @@ class Program
 	static void Main(string[] args)
 	{
 		string str = "Holberton School";
-        Console.WriteLine(string.Repeat(3));
+        Console.WriteLine("{0}, {1}, {2}", str);
+		Console.WriteLine(str.Substring(0,9));
         }
 }
