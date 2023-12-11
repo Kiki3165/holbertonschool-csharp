@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+
     class Program
     {
         public static int Sum(List<int> myList)
