@@ -1,5 +1,5 @@
 
-    class Program
+    class List
     {
         public static int Sum(List<int> myList)
         {
