@@ -1,6 +1,6 @@
 using System;
 
-public class Array;
+class Array;
 {
     public static int[] CreatePrint(int size)
     {
