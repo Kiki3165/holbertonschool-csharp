@@ -1,8 +1,7 @@
 using System;
-namespace System.Linq
 
 public static int Sum(List<int> myList)
 {
-    List<int> unique = new HashSet<int>(List).ToList();
+    var set = new HashSet<int>{myList};
     Console.WriteLine(string.Join(",", unique));
 }
