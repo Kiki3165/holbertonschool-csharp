@@ -1,0 +1,6 @@
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.csproj.AssemblyReference.cache
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.AssemblyInfoInputs.cache
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.AssemblyInfo.cs
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.csproj.CoreCompileInputs.cache
+C:\Users\kiki\holbertonschool-csharp-2\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp2.1\0-unique_add.sourcelink.json

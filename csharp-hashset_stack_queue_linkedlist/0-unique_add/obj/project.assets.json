@@ -928,11 +928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
-      "projectName": "0-new_project",
-      "projectPath": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+      "projectUniqueName": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj",
+      "projectName": "0-unique_add",
+      "projectPath": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj",
       "packagesPath": "C:\\Users\\kiki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hello_world\\0-new_project\\obj\\",
+      "outputPath": "C:\\Users\\kiki\\holbertonschool-csharp-2\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
