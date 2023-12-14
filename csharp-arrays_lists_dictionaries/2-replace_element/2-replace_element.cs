@@ -13,3 +13,4 @@ class Array
         array[index] = n;
         return array;
     }
+}

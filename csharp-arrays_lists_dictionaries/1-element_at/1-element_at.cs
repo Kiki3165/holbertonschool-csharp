@@ -12,3 +12,4 @@ class Array
 
         return array[index];
     }
+}
