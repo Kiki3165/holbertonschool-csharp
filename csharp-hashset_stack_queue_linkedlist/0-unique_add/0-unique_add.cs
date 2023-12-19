@@ -1,10 +1,16 @@
-using System.Collections;
-    class List
+using System;
+using System.Collections.Generic;
+
+class List
+{
+    public static int Sum(List<int> myList)
     {
-        public static int Sum(List<int> myList)
+        HashSet<int> set = new HashSet<int>(myList);
+        int num = 0;
+        foreach (int i in set)
         {
-            var set = new HashSet<int>{myList};
-            Console.WriteLine(string.Join(",", set));
-            return set;
+            num = num + i;
         }
+        return (num);
     }
+}
