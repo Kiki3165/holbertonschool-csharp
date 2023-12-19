@@ -1,9 +1,10 @@
-using System;
+﻿using System;
 
-class Array
+public class Array
 {
     public static int[] CreatePrint(int size)
     {
+
         if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
@@ -11,21 +12,29 @@ class Array
         }
 
         int[] newArray = new int[size];
-
-        for (int i = 0; i < size; i++)
-        {
-            newArray[i] = i;
-        }
-
+        
         if (size == 0)
         {
-            Console.WriteLine();
-        }
-        else
-        {
-            Console.WriteLine(string.Join(", ", newArray));
-        }
+            Console.WriteLine("");
 
-        return newArray;
+            return newArray;
+        }
+        
+        
+        else{
+            for (int i = 0; i < size; i++)
+            {
+                if (i == size-1)
+                {
+                    Console.WriteLine(i);
+                }else
+                {
+                    Console.Write("{0} ",i);
+                }
+                newArray[i] = i;
+            }
+            return newArray;
+        }
+        
     }
 }
