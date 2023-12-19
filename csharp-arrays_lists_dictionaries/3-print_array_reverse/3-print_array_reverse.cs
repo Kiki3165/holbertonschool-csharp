@@ -1,13 +1,27 @@
 using System;
 
-class Array
+public class Array
 {
     public static void Reverse(int[] array)
     {
-        for (int i = array.Length - 1; i >= 0; i--)
+        int i;
+
+        if (array == null || array.Length == 0)
         {
-            Console.Write(array[i] + " ");
+            Console.WriteLine();
+            return;
         }
-        Console.WriteLine(); // Move to the next line after printing all elements in reverse order
+        for (i = array.Length - 1; i >= 0; i--)
+        {
+            Console.Write(array[i]);
+            if (i != 0)
+            {
+                Console.Write(' ');
+            }
+            else
+            {
+                Console.WriteLine();
+            }
+        }
     }
 }
